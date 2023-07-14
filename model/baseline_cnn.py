@@ -1,5 +1,5 @@
 '''
-This code is for comparing basline with the SOTA model
+CNN Classification Model
 '''
 
 # Import Library
