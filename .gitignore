@@ -1,0 +1,9 @@
+# Enviroment
+.env
+.DS_Store
+
+# Local file
+__pycache__
+/datasets/
+
+*.ipynb
